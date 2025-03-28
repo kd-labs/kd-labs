@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on anything where i can learn and contribute
 - 📫 How to reach me kd.kunaldas92@gmail.com
 
-[Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kd-labs&show_icons=true)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kd-labs&show_icons=true&theme=buefy&hide_border=true" alt="Kunal's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kd-labs&layout=compact&theme=buefy&hide_border=true" /> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!---
 kd-labs/kd-labs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
